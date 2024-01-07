@@ -12,7 +12,7 @@
 [![Total Downloads](https://poser.pugx.org/ergebnis/rector-config-template/downloads)](https://packagist.org/packages/ergebnis/rector-config-template)
 [![Monthly Downloads](http://poser.pugx.org/ergebnis/rector-config-template/d/monthly)](https://packagist.org/packages/ergebnis/rector-config-template)
 
-This project provides a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for a [`composer`](https://getcomposer.org) package with  a configuration factory and a rule set for [`rector/rector`](https://github.com/rectorphp/rector).
+This project provides a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for a [`composer`](https://getcomposer.org) package with a configuration factory and rule sets for [`rector/rector`](https://github.com/rectorphp/rector).
 
 ## Installation
 
