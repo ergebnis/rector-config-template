@@ -1,6 +1,6 @@
 {
   "name": "ergebnis/rector-config-template",
-  "description": "Provides a configuration factory and multiple rule sets for rector/rector.",
+  "description": "Provides a configuration factory and rule sets for rector/rector.",
   "license": "MIT",
   "type": "library",
   "authors": [
