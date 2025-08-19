@@ -6,7 +6,6 @@
 [![Renew](https://github.com/ergebnis/rector-config-template/workflows/Renew/badge.svg)](https://github.com/ergebnis/rector-config-template/actions)
 
 [![Code Coverage](https://codecov.io/gh/ergebnis/rector-config-template/branch/main/graph/badge.svg)](https://codecov.io/gh/ergebnis/rector-config-template)
-[![Type Coverage](https://shepherd.dev/github/ergebnis/rector-config-template/coverage.svg)](https://shepherd.dev/github/ergebnis/rector-config-template)
 
 [![Latest Stable Version](https://poser.pugx.org/ergebnis/rector-config-template/v/stable)](https://packagist.org/packages/ergebnis/rector-config-template)
 [![Total Downloads](https://poser.pugx.org/ergebnis/rector-config-template/downloads)](https://packagist.org/packages/ergebnis/rector-config-template)
