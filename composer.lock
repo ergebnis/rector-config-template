@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "350e3881a04b94a6d5d21d1c0af88c88",
+    "content-hash": "b5bd28adf126e35eb1e954b8ac66b9c4",
     "packages": [
         {
             "name": "phpstan/phpstan",
@@ -61,21 +61,21 @@
         },
         {
             "name": "rector/rector",
-            "version": "2.3.9",
+            "version": "2.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rectorphp/rector.git",
-                "reference": "917842143fd9f5331a2adefc214b8d7143bd32c4"
+                "reference": "000b7050b9e4fe98db2192971e56eb0b302b3feb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rectorphp/rector/zipball/917842143fd9f5331a2adefc214b8d7143bd32c4",
-                "reference": "917842143fd9f5331a2adefc214b8d7143bd32c4",
+                "url": "https://api.github.com/repos/rectorphp/rector/zipball/000b7050b9e4fe98db2192971e56eb0b302b3feb",
+                "reference": "000b7050b9e4fe98db2192971e56eb0b302b3feb",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.4|^8.0",
-                "phpstan/phpstan": "^2.1.40"
+                "phpstan/phpstan": "^2.1.41"
             },
             "conflict": {
                 "rector/rector-doctrine": "*",
@@ -109,7 +109,7 @@
             ],
             "support": {
                 "issues": "https://github.com/rectorphp/rector/issues",
-                "source": "https://github.com/rectorphp/rector/tree/2.3.9"
+                "source": "https://github.com/rectorphp/rector/tree/2.4.1"
             },
             "funding": [
                 {
@@ -117,7 +117,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-16T09:43:55+00:00"
+            "time": "2026-04-08T08:43:56+00:00"
         }
     ],
     "packages-dev": [
@@ -1325,16 +1325,16 @@
         },
         {
             "name": "ergebnis/rector-rules",
-            "version": "1.16.0",
+            "version": "1.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ergebnis/rector-rules.git",
-                "reference": "8ab4a24243b2b60b88b9fa439891cbf2ea36c021"
+                "reference": "78f0a1a16835db99e920359cfc2e923c6821aa34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ergebnis/rector-rules/zipball/8ab4a24243b2b60b88b9fa439891cbf2ea36c021",
-                "reference": "8ab4a24243b2b60b88b9fa439891cbf2ea36c021",
+                "url": "https://api.github.com/repos/ergebnis/rector-rules/zipball/78f0a1a16835db99e920359cfc2e923c6821aa34",
+                "reference": "78f0a1a16835db99e920359cfc2e923c6821aa34",
                 "shasum": ""
             },
             "require": {
@@ -1389,7 +1389,7 @@
                 "security": "https://github.com/ergebnis/rector-rules/blob/main/.github/SECURITY.md",
                 "source": "https://github.com/ergebnis/rector-rules"
             },
-            "time": "2026-04-01T07:12:44+00:00"
+            "time": "2026-04-09T16:16:33+00:00"
         },
         {
             "name": "erickskrauch/php-cs-fixer-custom-fixers",
