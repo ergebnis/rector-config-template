@@ -1,9 +1,9 @@
 # rector-config-template
 
-[![Integrate](https://github.com/ergebnis/rector-config-template/workflows/Integrate/badge.svg)](https://github.com/ergebnis/rector-config-template/actions)
-[![Merge](https://github.com/ergebnis/rector-config-template/workflows/Merge/badge.svg)](https://github.com/ergebnis/rector-config-template/actions)
-[![Release](https://github.com/ergebnis/rector-config-template/workflows/Release/badge.svg)](https://github.com/ergebnis/rector-config-template/actions)
-[![Renew](https://github.com/ergebnis/rector-config-template/workflows/Renew/badge.svg)](https://github.com/ergebnis/rector-config-template/actions)
+[![Integrate](https://github.com/ergebnis/rector-config-template/actions/workflows/integrate.yaml/badge.svg?branch=main)](https://github.com/ergebnis/rector-config-template/actions/workflows/integrate.yaml)
+[![Merge](https://github.com/ergebnis/rector-config-template/actions/workflows/merge.yaml/badge.svg)](https://github.com/ergebnis/rector-config-template/actions/workflows/merge.yaml)
+[![Release](https://github.com/ergebnis/rector-config-template/actions/workflows/release.yaml/badge.svg)](https://github.com/ergebnis/rector-config-template/actions/workflows/release.yaml)
+[![Renew](https://github.com/ergebnis/rector-config-template/actions/workflows/renew.yaml/badge.svg)](https://github.com/ergebnis/rector-config-template/actions/workflows/renew.yaml)
 
 [![Code Coverage](https://codecov.io/gh/ergebnis/rector-config-template/branch/main/graph/badge.svg)](https://codecov.io/gh/ergebnis/rector-config-template)
 
