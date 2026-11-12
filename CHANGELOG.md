@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 For a full diff see [`1092515...main`][1092515...main].
 
+### Added
+
+- Added support for PHP 8.6 ([#491]), by [@localheinz]
+
 ### Changed
 
 - Allowed installation on PHP 8.6 ([#445]), by [@localheinz]
@@ -15,5 +19,6 @@ For a full diff see [`1092515...main`][1092515...main].
 [1092515...main]: https://github.com/ergebnis/rector-config-template/compare/1092515...main
 
 [#445]: https://github.com/ergebnis/rector-config-template/pull/445
+[#491]: https://github.com/ergebnis/rector-config-template/pull/491
 
 [@localheinz]: https://github.com/localheinz
