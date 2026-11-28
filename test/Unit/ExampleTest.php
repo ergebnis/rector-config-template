@@ -13,20 +13,19 @@ declare(strict_types=1);
 
 namespace Ergebnis\Rector\Config\Test\Unit;
 
-use Ergebnis\Rector\Config\Example;
-use Ergebnis\Rector\Config\Test;
+use Ergebnis\Rector\Config;
 use PHPUnit\Framework;
 
-#[Framework\Attributes\CoversClass(Example::class)]
+#[Framework\Attributes\CoversClass(Config\Example::class)]
 final class ExampleTest extends Framework\TestCase
 {
-    use Test\Util\Helper;
+    use Config\Test\Util\Helper;
 
     public function testFromStringReturnsExample(): void
     {
         $value = self::faker()->sentence();
 
-        $example = Example::fromString($value);
+        $example = Config\Example::fromString($value);
 
         self::assertSame($value, $example->toString());
     }
